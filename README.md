@@ -8,7 +8,6 @@ Python backend developer (~15 years in software). I build AI-first: production c
 - **AI-first workflow** — Claude Code as the main tool, orchestrators (AgentsRoom, Orca, Herdr), MCP access to databases, logs and task trackers, parallel work in git worktrees
 
 ### Featured
-- [claude_limit_box](https://github.com/kirillyar/claude_limit_box) — a spec-only repo: an AI agent reads the spec and writes ESP32 firmware for your board
 - [nanopim.com](https://nanopim.com) — AI-powered PIM platform (API and marketplace integrations)
 - [wonkybox.nz](https://wonkybox.nz) — subscription delivery backend (New Zealand)
 
