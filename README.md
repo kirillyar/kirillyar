@@ -1,6 +1,6 @@
 # Kirill Iaruntsov
 
-Python backend developer (~15 years in software). I build AI-first: production code with Claude Code and parallel AI agents, every change reviewed and tested.
+Python backend developer (~15 years in software, the last 7 in Python backend). I build AI-first: production code with Claude Code and parallel AI agents.
 
 ### What I do
 - **E-commerce backend** — PIM systems, Shopify / BigCommerce integrations, supplier data normalization
